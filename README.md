@@ -57,3 +57,7 @@
 ## 维护
 
 修改流程请遵循 [CONTRIBUTING.md](CONTRIBUTING.md)。公开前执行 [SECURITY.md](SECURITY.md) 中的检查。本仓库的许可证条款见 [LICENSE](LICENSE)。
+
+## 可选固定角色团队
+
+持续编码项目可在基本流程之上采用[固定角色的本地编码团队](docs/11-local-coding-team.md)，按管理、前后端实现和独立审查分工，包含不放行返工、复审和人工业务决策。它不替代最小团队原则，平台能力仍需本地验收。
